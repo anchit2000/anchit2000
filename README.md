@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me : anchit2000@gmail.com
+- 📫 How to reach me : anchit2000@gmail.com, +9107986485146
 
 <!---
 anchit2000/anchit2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
